@@ -9,6 +9,7 @@ public class Exer1 {
         System.out.println("版本2");
         System.out.println("版本3");
         System.out.println("hot-fix,版本1");
+        System.out.println("master,合并2");
     }
     public void test01(){
         System.out.println("hahah");
