@@ -12,6 +12,7 @@ public class Exer1 {
         System.out.println("master,合并2");
         System.out.println("hot-fix,版本2");
         System.out.println("push test");
+        System.out.println("github change");
     }
     public void test01(){
         System.out.println("hahah");
