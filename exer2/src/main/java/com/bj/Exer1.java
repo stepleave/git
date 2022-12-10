@@ -13,6 +13,7 @@ public class Exer1 {
         System.out.println("hot-fix,版本2");
         System.out.println("push test");
         System.out.println("github change");
+        System.out.println("ssh协议");
     }
     public void test01(){
         System.out.println("hahah");
